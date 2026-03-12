@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "P:\\SAPWOOINT\\Code\\Pavani\\SciNoteIntegrator05_11_2023_DIAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D873270A-63AB-4B58-8E2A-0100E21517C8}|SciNoteDIApi\\SciNoteDIApi.vbproj|p:\\sapwooint\\code\\pavani\\scinoteintegrator05_11_2023_diapi\\scinotediapi\\globalvar.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D873270A-63AB-4B58-8E2A-0100E21517C8}|SciNoteDIApi\\SciNoteDIApi.vbproj|solutionrelative:scinotediapi\\globalvar.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D873270A-63AB-4B58-8E2A-0100E21517C8}|SciNoteDIApi\\SciNoteDIApi.vbproj|P:\\SAPWOOINT\\Code\\Pavani\\SciNoteIntegrator05_11_2023_DIAPI\\scinotediapi\\config.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D873270A-63AB-4B58-8E2A-0100E21517C8}|SciNoteDIApi\\SciNoteDIApi.vbproj|solutionrelative:scinotediapi\\config.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "globalVar.vb",
+              "DocumentMoniker": "P:\\SAPWOOINT\\Code\\Pavani\\SciNoteIntegrator05_11_2023_DIAPI\\SciNoteDIApi\\globalVar.vb",
+              "RelativeDocumentMoniker": "SciNoteDIApi\\globalVar.vb",
+              "ToolTip": "P:\\SAPWOOINT\\Code\\Pavani\\SciNoteIntegrator05_11_2023_DIAPI\\SciNoteDIApi\\globalVar.vb",
+              "RelativeToolTip": "SciNoteDIApi\\globalVar.vb",
+              "ViewState": "AQIAABsBAAAAAAAAAAAAAB8BAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-03-11T06:19:08.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "config.xml",
+              "DocumentMoniker": "P:\\SAPWOOINT\\Code\\Pavani\\SciNoteIntegrator05_11_2023_DIAPI\\SciNoteDIApi\\config.xml",
+              "RelativeDocumentMoniker": "SciNoteDIApi\\config.xml",
+              "ToolTip": "P:\\SAPWOOINT\\Code\\Pavani\\SciNoteIntegrator05_11_2023_DIAPI\\SciNoteDIApi\\config.xml",
+              "RelativeToolTip": "SciNoteDIApi\\config.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-03-10T10:21:51.967Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

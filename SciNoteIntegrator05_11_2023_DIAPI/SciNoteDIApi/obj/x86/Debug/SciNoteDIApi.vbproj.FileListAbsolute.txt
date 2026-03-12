@@ -1,0 +1,15 @@
+C:\Users\TECHADMIN\Desktop\Code\SciNoteIntegrator\SciNoteDIApi\bin\x86\Debug\config.xml
+C:\Users\TECHADMIN\Desktop\Code\SciNoteIntegrator\SciNoteDIApi\bin\x86\Debug\SciNoteDIApi.exe.config
+C:\Users\TECHADMIN\Desktop\Code\SciNoteIntegrator\SciNoteDIApi\bin\x86\Debug\SciNoteDIApi.exe
+C:\Users\TECHADMIN\Desktop\Code\SciNoteIntegrator\SciNoteDIApi\bin\x86\Debug\SciNoteDIApi.pdb
+C:\Users\TECHADMIN\Desktop\Code\SciNoteIntegrator\SciNoteDIApi\bin\x86\Debug\SciNoteDIApi.xml
+C:\Users\TECHADMIN\Desktop\Code\SciNoteIntegrator\SciNoteDIApi\bin\x86\Debug\SAPBusinessOneSDK.dll
+C:\Users\TECHADMIN\Desktop\Code\SciNoteIntegrator\SciNoteDIApi\obj\x86\Debug\SciNoteDIApi.vbproj.AssemblyReference.cache
+C:\Users\TECHADMIN\Desktop\Code\SciNoteIntegrator\SciNoteDIApi\obj\x86\Debug\SciNoteDIApi.Form1.resources
+C:\Users\TECHADMIN\Desktop\Code\SciNoteIntegrator\SciNoteDIApi\obj\x86\Debug\SciNoteDIApi.Resources.resources
+C:\Users\TECHADMIN\Desktop\Code\SciNoteIntegrator\SciNoteDIApi\obj\x86\Debug\SciNoteDIApi.vbproj.GenerateResource.cache
+C:\Users\TECHADMIN\Desktop\Code\SciNoteIntegrator\SciNoteDIApi\obj\x86\Debug\SciNoteDIApi.vbproj.CoreCompileInputs.cache
+C:\Users\TECHADMIN\Desktop\Code\SciNoteIntegrator\SciNoteDIApi\obj\x86\Debug\SciNoteDIApi.vbproj.CopyComplete
+C:\Users\TECHADMIN\Desktop\Code\SciNoteIntegrator\SciNoteDIApi\obj\x86\Debug\SciNoteDIApi.exe
+C:\Users\TECHADMIN\Desktop\Code\SciNoteIntegrator\SciNoteDIApi\obj\x86\Debug\SciNoteDIApi.xml
+C:\Users\TECHADMIN\Desktop\Code\SciNoteIntegrator\SciNoteDIApi\obj\x86\Debug\SciNoteDIApi.pdb
