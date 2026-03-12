@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Data>
+	<Server>MVL-SAP-01</Server>
+	<Database>SCIMVPLASTICS</Database>
+	<DBName>MVPLASTICSLTDUK</DBName>
+	<DbUser>sa</DbUser>
+	<DbPassword>5@pph1re</DbPassword>	
+    <SAPDBName>MVPLASTICSLTDUK</SAPDBName>
+	<log_path>P:\SAPWOOINT\Sci\MVPLASTICS\Log</log_path>
+
+</Data>

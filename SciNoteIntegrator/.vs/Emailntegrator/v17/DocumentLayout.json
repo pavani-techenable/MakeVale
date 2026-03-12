@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "P:\\SAPWOOINT\\Code\\Pavani\\TestProject\\SciNoteIntegrator_11072024_ScinoteTOStaging\\SciNoteIntegrator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{261AACB9-754A-43FB-BB82-F32A8A30DEAB}|Integrator\\Integrator.vbproj|p:\\sapwooint\\code\\pavani\\testproject\\scinoteintegrator_11072024_scinotetostaging\\scinoteintegrator\\integrator\\globalvar.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{261AACB9-754A-43FB-BB82-F32A8A30DEAB}|Integrator\\Integrator.vbproj|solutionrelative:integrator\\globalvar.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{261AACB9-754A-43FB-BB82-F32A8A30DEAB}|Integrator\\Integrator.vbproj|P:\\SAPWOOINT\\Code\\Pavani\\TestProject\\SciNoteIntegrator_11072024_ScinoteTOStaging\\SciNoteIntegrator\\integrator\\config.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{261AACB9-754A-43FB-BB82-F32A8A30DEAB}|Integrator\\Integrator.vbproj|solutionrelative:integrator\\config.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "config.xml",
+              "DocumentMoniker": "P:\\SAPWOOINT\\Code\\Pavani\\TestProject\\SciNoteIntegrator_11072024_ScinoteTOStaging\\SciNoteIntegrator\\Integrator\\config.xml",
+              "RelativeDocumentMoniker": "Integrator\\config.xml",
+              "ToolTip": "P:\\SAPWOOINT\\Code\\Pavani\\TestProject\\SciNoteIntegrator_11072024_ScinoteTOStaging\\SciNoteIntegrator\\Integrator\\config.xml",
+              "RelativeToolTip": "Integrator\\config.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-02-25T05:59:27.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "globalVar.vb",
+              "DocumentMoniker": "P:\\SAPWOOINT\\Code\\Pavani\\TestProject\\SciNoteIntegrator_11072024_ScinoteTOStaging\\SciNoteIntegrator\\Integrator\\globalVar.vb",
+              "RelativeDocumentMoniker": "Integrator\\globalVar.vb",
+              "ToolTip": "P:\\SAPWOOINT\\Code\\Pavani\\TestProject\\SciNoteIntegrator_11072024_ScinoteTOStaging\\SciNoteIntegrator\\Integrator\\globalVar.vb",
+              "RelativeToolTip": "Integrator\\globalVar.vb",
+              "ViewState": "AQIAAMwAAAAAAAAAAAAkwM8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-25T05:37:34.892Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
