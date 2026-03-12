@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Data>
+  <Server>TENB1SVR</Server>
+  <Database>ScinoteDB</Database>
+  <DBName>MVPL_TEST</DBName>
+  <DbUser>sa</DbUser>
+  <DbPassword>Tech@8989</DbPassword>
+	<sapUser>manager</sapUser>
+	<sapPassword>Gunjan</sapPassword>
+</Data>

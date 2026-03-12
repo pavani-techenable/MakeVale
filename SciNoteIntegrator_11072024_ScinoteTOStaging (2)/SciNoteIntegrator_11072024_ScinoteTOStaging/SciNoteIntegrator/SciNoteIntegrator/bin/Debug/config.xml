@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Data>
+  <Server>TENB1SVR</Server>
+  <Database>SCIMAPIND</Database>
+  <DBName>MVPLASTICSLTDUK_30012024</DBName>
+  <DbUser>sa</DbUser>
+  <DbPassword>Tech@8989</DbPassword>
+  <Url>https://makevalegroup.scinote.net/api/v1/teams/</Url>
+	<!--<Url>https://makevale.Scinote.net/api/v1/teams/1/projects/1/experiments/1/tasks</Url>-->
+  <refreshToken_old>Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEzLCJleHAiOjMzMzUyMjA2NjIsImlzcyI6IlNjaU5vdGUifQ.Cvab8OgW21Lhw-wu9jIgaUf0D1_PosvJ1LI6WHvf_aU</refreshToken_old>
+	<!--<refreshToken>Bearer YireyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjE5LCJleHAiOjE2NzE3MzE2NTIsImlzcyI6IlNjaU5vdGUifQ.wyX32mNBH3vzuFwjd8Ls6NGl6w76PhRBYaUkCc1aH0U</refreshToken>-->
+	<refreshToken>jHwcE5gKrnFSOfsx6uN2U1PSD_SyqZhYiiCANAkQ</refreshToken>
+	<SAPDBName>MVPL_TEST</SAPDBName>
+	<SQL_Project>select ContractID ,Descriptio,CreateDate from MVPLASTICSLTDUK_30012024..OCTR Where U_Project is null and CreateDate >'20221016' and Descriptio is not null and ContractID > 65</SQL_Project>
+	<attachPath>C:\SciNoteFiles\{0}</attachPath>
+	<attachUrl>https://makevalegroup.scinote.net</attachUrl>
+	<active_type>Live</active_type>
+	<live_token_url>https://makevalegroup.scinote.net/oauth/token</live_token_url>
+	<demo_token_url>https://makevale.scinote.net/oauth/token</demo_token_url>
+	<live_tok_url>grant_type=refresh_token&amp;client_id=d5843a09-f86a-4526-a484-1de8602a02de&amp;client_secret=2a794653-01fa-4acb-a473-1c3b1d9fbf55&amp;refresh_token={0}&amp;redirect_uri=urn:ietf:wg:oauth:2.0:oob</live_tok_url>
+	<dem_tok_url>grant_type=refresh_token&amp;client_id=YPH0M6UJPrJVd4OBAZ9gtEApDp4OiL-UIp-sJohxFsU&amp;client_secret=0RNBbF4q6iA3ZhXNypISPJtLEXdAmPuVJFlrJIGxMTA&amp;refresh_token=YGLWMhNG1UwdpueOkOqDm2T9MBu2CYEJpQc1kHBoqjg&amp;redirect_uri=urn:ietf:wg:oauth:2.0:oob</dem_tok_url>
+</Data>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--<Data>
+	<Server>MVL-SAP-01</Server>
+	<Database>SciNoteDBM</Database>
+	<DBName>MAKEVALELTD</DBName>
+	<DbUser>sa</DbUser>
+	<DbPassword>5@pph1re</DbPassword>
+	<sapUser>manager</sapUser>
+	<sapPassword>M4k3v4L3</sapPassword>
+	<attachPath>P:\SAPWOOINT\Sci\attach\{0}</attachPath>
+	<attachPathLog>P:\SAPWOOINT\Sci\attach\Log\{0} </attachPathLog>
+</Data>-->
+<Data>
+	<Server>MVL-SAP-01</Server>
+	<Database>SCIMVPLASTICS</Database>
+	<DBName>MVPLASTICSLTDUK</DBName>
+	<DbUser>sa</DbUser>
+	<DbPassword>5@pph1re</DbPassword>
+	<sapUser>manager</sapUser>
+	<sapPassword>M4k3v4L3</sapPassword>
+	<attachPath>P:\SAPWOOINT\Sci\attach\{0}</attachPath>
+	<attachPathLog>P:\SAPWOOINT\Sci\attach\Log\{0} </attachPathLog>
+</Data>

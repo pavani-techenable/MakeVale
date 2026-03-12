@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Data>
+  <Server>TENB1SVR</Server>
+  <Database>ScinoteDB</Database>
+  <DBName>MVPL_TEST</DBName>
+  <DbUser>sa</DbUser>
+  <DbPassword>Tech@8989</DbPassword>
+  <Url>https://makevalegroup.scinote.net/api/v1/teams/</Url>
+	<!--<Url>https://makevale.Scinote.net/api/v1/teams/1/projects/1/experiments/1/tasks</Url>-->
+  <refreshToken_old>Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEzLCJleHAiOjMzMzUyMjA2NjIsImlzcyI6IlNjaU5vdGUifQ.Cvab8OgW21Lhw-wu9jIgaUf0D1_PosvJ1LI6WHvf_aU</refreshToken_old>
+	<!--<refreshToken>Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjE5LCJleHAiOjE2NzE3MzE2NTIsImlzcyI6IlNjaU5vdGUifQ.wyX32mNBH3vzuFwjd8Ls6NGl6w76PhRBYaUkCc1aH0U</refreshToken>-->
+	<refreshToken>YirjHwcE5gKrnFSOfsx6uN2U1PSD_SyqZhYiiCANAkQ</refreshToken>
+	<SAPDBName>MVPL_TEST</SAPDBName>
+	<SQL_Project>select ContractID ,Descriptio,CreateDate from MVPL_TEST..OCTR Where U_Project is null and CreateDate >'20221016' and Descriptio is not null and ContractID > 65</SQL_Project>
+</Data>
